@@ -1,0 +1,9 @@
+C:\Users\vikkt\OneDrive\Desktop\Development\Trey Bot
+node bot.js
+you could just like replace the fucking .json 's from the data
+folder
+#FF00F7 pink = successful
+
+#4A90E2 blue = error
+
+#62000A dark red = access denied/unsuccessful
